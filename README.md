@@ -10,7 +10,7 @@
 
 Мои инструменты:
 
-- Python - Pandas, Matplotlib, Seaborn, Plotly, NumPy, Stats 
+- Python - алгоритмы, Pandas, Matplotlib, Seaborn, Plotly, NumPy, Stats 
 - SQL - в том числе join, оконные ф-ции, CTE, индексы, могу составить сложный запрос, умею использовать индексы
 - Airlow - могу написать несложный DAG, поставить на расписание, умею пользоваться PythonOperator
 - Docker - могу скачать и развернуть image, примаунтить нужные папки, могу внести изменения, пересобрать образ
